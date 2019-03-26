@@ -36,6 +36,15 @@ body {
 ol, ul {
 	list-style: none;
 }
+#gitlogo{
+	width: 26rem;
+	height: inherit;
+	display: flex;
+	align-content: center;
+	align-items: center;
+	margin: 25% 0 0 2%;
+
+}
 
 blockquote, q {
 	quotes: none;
